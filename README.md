@@ -86,3 +86,7 @@ Claude is instructed (via `CLAUDE.md`) to:
 ```
 
 Logs go to `~/.claude/memory-gc.log`.
+
+## License
+
+GPL v3 — free to use including commercially, but derivative works must remain open source. See [LICENSE](./LICENSE).
